@@ -9,8 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* MSc in Human Genetics (Thesis) at McGill University (2023 - 2025)
-* BSc in Interdisciplinary Medical Sciences at Western University (2018 - 2022)
+Master's
+------
+MSc in Human Genetics (Thesis) at McGill University, Montreal, QC, Canada (2023 - 2025)
+* Program website: https://www.mcgill.ca/humangenetics/
 
+Undergraduate
+------
+BSc in Interdisciplinary Medical Sciences at Western University, London, ON, Canada (2018 - 2022)
+* Program website: https://www.schulich.uwo.ca/ims/index.html
