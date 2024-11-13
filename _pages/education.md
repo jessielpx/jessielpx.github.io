@@ -19,7 +19,7 @@ redirect_from:
    2. Functional Genomics of Cancer
    3. Statistical Concepts in Genetic and Genomic Analysis 
 
-<br><br><br>
+<br><br>
 
 ## Undergraduate
 ---
