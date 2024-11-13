@@ -13,7 +13,6 @@ redirect_from:
 ---
 Time: Oct.2024-Present  
 Institute: Microbiology & Immunology Department, McGill University  
-
 <br>
 
 ## Remote Volunteer English Teacher
