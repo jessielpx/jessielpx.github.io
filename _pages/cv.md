@@ -29,6 +29,7 @@ Supervisor: Dr.Yasser Riazalhosseini
 
 ## Design a Compound Targeting the GluN2D Subunit of NMDA Receptor with Higher Affinity Based on an Existing Inhibitor HTS 00987 to Treat Alzheimer’s Disease
 ---
+<img scr='/images/molecule.png'>
 Time: Sep.2020 - Dec.2020  
 Institute: Western University  
 Supervisor: Dr.Murray Junop  
