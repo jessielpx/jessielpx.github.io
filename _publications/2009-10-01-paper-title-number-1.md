@@ -14,4 +14,6 @@ venue: '【Preparation】'
 
  Liu, P., Glennon, K., Riazalhosseini, Y.  
  
-<img src="/images/coo.png" width="400">
+<img src="/images/coo.png" width="600">
+
+An example of co-occurrence and mutual exclusive
