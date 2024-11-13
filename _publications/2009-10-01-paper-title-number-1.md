@@ -16,4 +16,4 @@ venue: '【Preparation】'
  
 <img src="/images/coo.png" width="600">
 
-An example of co-occurrence and mutual exclusive
+An example of co-occurrence and mutually exclusive analysis on gene mutation
