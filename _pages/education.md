@@ -12,6 +12,7 @@ redirect_from:
 Master's
 ------
 McGill University, Montreal, QC, Canada (2023 - 2025)
+
 MSc in Human Genetics (Thesis)
 * Program website: [HGEN](https://www.mcgill.ca/humangenetics/)
 * Courses:
@@ -24,8 +25,11 @@ MSc in Human Genetics (Thesis)
 Undergraduate
 ------
 Western University (University of Western Ontario), London, ON, Canada (2018 - 2022)
+
 Honor BMsc in Medical Sciences
+
 Honor Specialization in Interdisciplinary Medical Sciences
+
 Minor in Psychology
 * Program website: [IMS](https://www.schulich.uwo.ca/ims/index.html)
 * Modules: Biochemistry, Cell Biology, Immunology, Microbiology, Pathology, physiology, psychology
