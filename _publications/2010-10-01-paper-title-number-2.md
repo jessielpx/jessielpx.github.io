@@ -13,5 +13,5 @@ citation: 'Soytas, M., Nishimura, T., Arseneault, M., Scarlata, E., Glennon, K.,
 
 My contribution: Generated Oncoplots to visualize the mutational landscape of S/R RCC-related genes.  
 
- <img src="images/onco.png" width="700">
+ <img src="/images/onco.png" width="700">
 
