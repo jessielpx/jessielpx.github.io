@@ -1,7 +1,7 @@
 ---
 title: "PD16-03 Understanding the molecular characteristics and vulnerabilities of sarcomatoid/rhabdoid renal cell carcinomas through integrative histological and spatial genomics approaches"
 collection: publications
-category: abstract
+category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: #
 date: 2010-10-01
