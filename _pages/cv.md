@@ -29,6 +29,7 @@ Supervisor: Dr.Yasser Riazalhosseini
 *	Ran alignment pipeline from Canadian Center for Computational Genomics; analyzed sequencing data by generating metrics using Qualimap, FastQC, and Picard tools.
 
 <br><br><br>
+
 ## Research on the Effect of Insulin on FoxO6 Gene Expression in Rat2 Fibroblast Cells Using qPCR
 ---
 Time: Jan.2021 - Apr.2022  
@@ -36,6 +37,7 @@ Institute: Western University
 *	Isolated RNA from insulin-treated Rat2 fibroblasts; Prepared cDNA using reverse transcription; Determined optimal annealing temperature for qPCR by performing gradient PCR; Determined FoxO6 primers efficiency; Conducted qPCR to examine the FoxO6 expression relative to housekeeping gene normalized to control.
 
 <br><br><br>
+
 ## Medical Health Application Intervention for Hepatitis C Patients in Ontario Prisons
 ---
 Time: Jan.2021 - Apr.2022  
@@ -43,6 +45,7 @@ Institute: Western University
 *	Designed an application as an intervention to improve treatment adherence and continuity of care for prison populations in London to facilitate disease prognosis and aid in the transition from correctional facilities back into the community.
 
 <br><br><br>
+
 ## Research on the Effect of Insulin Treated Rat2 Fibroblast Cells on AKT and pAKT Using Western Blot
 ---
 Time: Sep.2021 - Nov.2021  
@@ -50,6 +53,7 @@ Institute: Western University
 *	Isolated proteins from insulin-treated Rat2 cells; Determined the concentration of sample proteins by BCA assay; Performed acrylamide gels handcasting and SDS-PAGE to run the sample; Conducted Western blot transfer, and probed and imaged the membrane; Carried out Image analysis using ImageJ.
 
 <br><br><br>
+
 ## Study on the Duration of LPS Activation on NF-kB Activation in Macrophage
 ---
 Time: Mar.2021 - Apr.2021  
@@ -57,6 +61,7 @@ Institute: Western University
 * Generated cDNA from mRNA using end-point PCR; Amplified DNA with PCR; Utilized Western Blot to examine activation of NF-kB; Analyzed the image of gel with ImageJ.
 
 <br><br><br>
+
 ## Investigation on the Effect of Secondary OVA-Alum Immunization on Plasma IgG Concentration in Mice
 ---
 Time: Jan.2021 - Feb.2021  
@@ -64,6 +69,7 @@ Institute: Western University
 *	Injected OVA-alum into the peritoneal cavity of mice; Conducted Enzyme-linked Immunosorbent Assay (ELISA) to detect the OVA-specific IgG concentration; Discussed the effect of the booster.
 
 <br><br><br>
+
 ## Design a Compound Targeting the GluN2D Subunit of NMDA Receptor with Higher Affinity Based on an Existing Inhibitor HTS 00987 to Treat Alzheimer’s Disease
 ---
 <img src='/images/molecule.png' width="500">  
@@ -76,6 +82,7 @@ Supervisor: Dr.Murray Junop
 *	Predict binding orientation and affinity of potential ligands to target, examine toxicity and attain docking scores; Found a new inhibitor that works with the GluN2D subunit of NMDA receptor which plays essential role in neurodegeneration in Alzheimer’s disease.
 
 <br><br><br>
+
 ## Identification of Unknown Enteric Bacteria from Eggshell and Study on the industrial Usefulness of the Bacterial Enzymes
 ---
 Time: Sep.2020 - Dec.2020  
