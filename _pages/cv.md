@@ -13,7 +13,7 @@ redirect_from:
 ---
 Time: May 2023 - Present  
 Institute: McGill University  
-Supervisor: Dr.Yasser Riazalhosseini  
+Supervisor: Dr. Yasser Riazalhosseini  
 *	Genomic Analysis: Investigated mutation patterns in Sarcomatoid/Rhabdoid renal cell carcinoma patients across tumor histology, S/R features, and metastatic sites.
 *	Generated Oncoplots to visualize the mutational landscape of S/R RCC-related genes. Determined if genes are unfunctional due to mutations or the loss of chromosomes by looking at the copy number variation. Investigated the patterns in tumor mutation burden by generating correlation plots.
 *	Analyzing international Cancer Genomics of the Kidney Consortium (CAGEKID) data for comparison and reference. Studied the co-occurrence of S/R RCC-related genes. Examined the independence between mutations in VHL and other S/R RCC-related genes.  
@@ -23,7 +23,7 @@ Supervisor: Dr.Yasser Riazalhosseini
 ---
 Time: May 2023 - Present  
 Institute: McGill University  
-Supervisor: Dr.Yasser Riazalhosseini  
+Supervisor: Dr. Yasser Riazalhosseini  
 *	Generated DNA libraries from renal cell carcinoma (RCC) FFPE and liquid biopsy (cfDNA) samples; compared between mechanical sheared and enzymatically fragmented DNA’s performance in library preparation; compared among different amounts of DNA inputs, adapter concentration, and various DNA quality levels.
 *	Conducted shallow whole genome sequencing to initially evaluate the quality of DNA libraries.
 *	Ran alignment pipeline from Canadian Center for Computational Genomics; analyzed sequencing data by generating metrics using Qualimap, FastQC, and Picard tools.
@@ -77,7 +77,7 @@ Institute: Western University
  #### The candidate molecule docked using MCULE, and the image generated using PyMOL with the GluN2D subunit accession code 3OEK.  
 Time: Sep.2020 - Dec.2020  
 Institute: Western University  
-Supervisor: Dr.Murray Junop  
+Supervisor: Dr. Murray Junop  
 *	Finalized study object, read articles about the NMDA inhibitor and found the gap; Isolated and investigated the binding site of protein (receptor) with PyMOL, and predicted the interaction between receptor and ligand; sketched expected molecule structure; Utilized MCULE to generate models of candidate molecules
 *	Predict binding orientation and affinity of potential ligands to target, examine toxicity and attain docking scores; Found a new inhibitor that works with the GluN2D subunit of NMDA receptor which plays essential role in neurodegeneration in Alzheimer’s disease.
 
