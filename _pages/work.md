@@ -17,8 +17,7 @@ Location: Jinan, Shandong, China
 *	Improved efficiency and accuracy of the WES product by optimizing DNA isolation, ultrasonic degeneration, library preparation, and hybridization capture processes. 
 *	Utilized Real-time PCR, microfluidic chip electrophoresis, polyacrylamide gel electrophoresis, fluorometer, and microvolume spectrophotometers for DNA libeaey qualification and quantification.
 *	Designed experiments, analyzed data, made conclusions and decisions, and constructed standard operating procedures.
-*	Participated in an in vitro diagnostic lung cancer project for personalized precision medicine, organized and categorized clinical tissue samples from lung cancer patients, extracted and isolated DNA from FFPE tissue sections, and conducted quantity and quality tests.
-
+*	Participated in an in vitro diagnostic lung cancer project for personalized precision medicine, organized and categorized clinical tissue samples from lung cancer patients, extracted and isolated DNA from FFPE tissue sections, and conducted quantity and quality tests.  
 <br>
 
 ## Lab Assistant, Yinfeng Gene Technology Co Ltd
