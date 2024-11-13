@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: #
-date: 2010-10-01
+date: 2024-05-01
 venue: 'Journal of Urology'
 #slidesurl: 'http://academicpages.github.io/files/S:R_paper.pdf'
 paperurl: 'http://academicpages.github.io/files/S:R_paper.pdf'
