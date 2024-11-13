@@ -11,4 +11,4 @@ I graduated from Western University (Canada) with a Bachelor's degree in Interdi
 
 
 <img src='/images/Bench.jpg'>
-###### A photo of my lab bench
+###### A photo of my lab bench at McGill Genome Center, Montréal, QC, Canada
