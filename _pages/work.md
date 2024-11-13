@@ -19,7 +19,7 @@ Location: Jinan, Shandong, China
 *	Designed experiments, analyzed data, made conclusions and decisions, and constructed standard operating procedures.
 *	Participated in an in vitro diagnostic lung cancer project for personalized precision medicine, organized and categorized clinical tissue samples from lung cancer patients, extracted and isolated DNA from FFPE tissue sections, and conducted quantity and quality tests.
 
-<br><br><br>
+<br>
 
 ## Lab Assistant, Yinfeng Gene Technology Co Ltd
 ---
