@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-Master's
-------
+## Master's
+
 **McGill University**, Montreal, QC, Canada (2023 - 2025)
 
 **MSc** in Human Genetics (Thesis)
@@ -22,8 +22,8 @@ Master's
 
 
 
-Undergraduate
-------
+## Undergraduate
+
 **Western University** (University of Western Ontario), London, ON, Canada (2018 - 2022)
 
 Honor **BMsc** in Medical Sciences
