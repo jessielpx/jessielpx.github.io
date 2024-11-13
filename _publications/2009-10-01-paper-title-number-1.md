@@ -13,7 +13,9 @@ venue: '【Preparation】'
 
 
  Liu, P., Glennon, K., Riazalhosseini, Y.  
+
+ <br><br>  
  
-<img src="/images/coo.png" width="600">
+<img src="/images/coo.png" width="600">  
 
 An example of co-occurrence and mutually exclusive analysis on gene mutation
