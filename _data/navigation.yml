@@ -10,6 +10,9 @@ main:
     
   - title: "Research"
     url: /cv/
+
+  - title: "Work"
+    url: /work/
     
   - title: "Publications"
     url: /publications/
@@ -23,5 +26,3 @@ main:
   - title: "Portfolio"
     url: /portfolio/
     
-  - title: "Guide"
-    url: /markdown/
