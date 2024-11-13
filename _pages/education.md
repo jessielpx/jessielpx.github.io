@@ -19,6 +19,7 @@ redirect_from:
    2. Functional Genomics of Cancer
    3. Statistical Concepts in Genetic and Genomic Analysis  
 
+  
 ## Undergraduate
 ---
 **Western University** (University of Western Ontario), London, ON, Canada (2018 - 2022)  
